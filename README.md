@@ -2,8 +2,8 @@
  
  <div>
    <a href="[https://github.com/lavyh8](https://www.linkedin.com/in/lavinia-rodenbusch/)">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavyh8&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavyh8&layout=compact&langs_count=6&theme=gruvbox"/>
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=lavyh8&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavyh8&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
     
 <div style="display: inline_block"><br>
