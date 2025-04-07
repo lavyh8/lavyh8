@@ -1,5 +1,7 @@
+## Olá! Eu sou a Lavinia Rodenbusch!
+ 
  <div>
-   <a href="https://github.com/lavyh8">
+   <a href="[https://github.com/lavyh8](https://www.linkedin.com/in/lavinia-rodenbusch/)">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lavyh8&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavyh8&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
