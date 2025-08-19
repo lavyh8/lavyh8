@@ -23,11 +23,6 @@
 
 #
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lavyh8}/count.svg" /></p> 
-<br></div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavyh8/lavyh8/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavyh8/lavyh8/output/github-contribution-grid-snake-dark.svg">
